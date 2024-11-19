@@ -1,0 +1,178 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.custom-navbar {
+    background-color: transparent;
+    height: 110px;
+    color: #0b60ae;
+}
+
+.welcome-text {
+    width: 590px;
+}
+
+.welcome-text h1 {
+    font-size: 50px;
+}
+
+.welcome-text p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.main-1 {
+    margin-top: 40px;
+    height: 600px;
+}
+
+.menu-group a {
+    text-decoration: none;
+    color: #0b60ae;
+    font-size: 18px;
+    margin-right: 30px;
+}
+
+.button-group {
+    align-items: center;
+}
+
+#btn-1 {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    border: #0b60ae 2.4px solid;
+    border-radius: 7px;
+    color: #0b60ae;
+    margin-right: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+#btn-2 {
+    background-color: #0b60ae;
+    font-weight: 600;
+    font-size: 20px;
+    border: #0b60ae 2.4px solid;
+    border-radius: 7px;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+.main-2 {
+    color: #0b60ae;
+}
+
+.penawaran {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: #0b5fae53 2.4px solid;
+    border-radius: 7px;
+}
+
+.main-3 {
+    margin-top: 100px;
+    height: 400px;
+    background-color: #0b60ae;
+}
+
+.home {
+    background-color: rgba(255, 255, 255, 0.275);
+    height: 100%;
+    width: 450px;
+}
+
+.main-4 {
+    height: 200px;
+}
+
+.home {}
+
+.hot {}
+
+.hot .tawar {}
+
+.tawar {
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.tawar p {
+    margin-top: 5px;
+    color: white;
+    font-size: 19px;
+}
+
+.judul-tawar {
+    background-color: white;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.judul-tawar .p {
+    font-weight: 400;
+    color: #0b60ae;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.limit h2 {
+    font-weight: 650;
+    color: rgb(215, 179, 0);
+}
+
+.limit h4 {
+    font-weight: 450;
+    color: rgb(18, 194, 18);
+
+}
+
+.main-4 {
+    margin-top: 60px;
+    height: 600px;
+}
+
+.main-4 h2 {
+    color: #0b60ae;
+}
+
+.cara-group {
+    margin-top: 20px;
+}
+
+.cara {
+    width: 400px;
+    height: 480px;
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.1),
+        0 10px 10px rgba(0, 0, 0, 0.04);
+    border-radius: 8px;
+}
+
+.cara .isi-1 {
+    background-color: #1968b325;
+    width: 100%;
+    height: 230px;
+
+}
+
+.cara .isi-2 {
+    color: #0b60ae;
+    margin-top: 10px;
+}
+
+.isi-2 p {
+    color: black;
+}
+footer {
+    background-color: #0b60ae;
+    height: 380px;
+}
