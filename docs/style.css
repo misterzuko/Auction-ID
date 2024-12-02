@@ -437,6 +437,14 @@ footer {
 .contact {
     display: flex;
 }
+.contact .img {
+    margin-top: 2px;
+    width: 30px;
+}
+.img img{
+    width: 100%;
+    object-fit: cover;
+}
 .items .contact img {
     width: 20px;
     height: 20px;
@@ -452,4 +460,92 @@ footer {
     margin-left: 30px;
     color: white;
     font-size: 18px;
+}
+.bg-img .img{
+    width: 290px;
+}
+.bg-img .img img {
+    width: 100%;
+    object-fit: cover;
+}
+.main-lelang-ajuan {
+    color: white;
+    background-color: #0b5fae;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+#btn-dftl {
+    color: #0b5fae;
+    background-color: whitesmoke;
+}
+.main-ajuan .sub-main {
+    border: #0b5fae53 2.4px solid;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.form {
+    width: 100%;
+    padding-bottom: 40px;
+}
+.main-ajuan form {
+    color: #0b5fae;
+}
+.form hr {
+    background-color: #0b5fae;
+    margin-top: 20px;
+}
+.form h2 {
+    margin-top: 30px;
+}
+.form {
+    margin-left: 10px;
+}
+.form-input {
+    margin-top: 25px;
+}
+.form-input input {
+    margin-top: 0;
+    color: #0b5fae;
+    width: 400px;
+    background-color: whitesmoke;
+    border: #0b5fae53 2.4px solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.form-input select {
+    height: 39px;
+    color: #0b5fae;
+    width: 400px;
+    background-color: whitesmoke;
+    border: #0b5fae53 2.4px solid;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.form-input label{
+    width: 170px;
+}
+#alamat {
+    width: 500px;
+}
+#deskripsi {
+    width: 800px;
+}
+#kategori {
+    width: 200px;
+}
+#notlpn {
+    width: 250px;
+}
+#nik {
+    width: 330px;
+}
+#harga {
+    width: 300px;
+}
+#foto {
+    width: 250px;
 }
